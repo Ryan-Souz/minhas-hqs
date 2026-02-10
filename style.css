@@ -1,0 +1,9 @@
+ body { font-family: 'Segoe UI', sans-serif; background-color: #0f0f0f; color: white; padding: 20px; }
+        h1 { text-align: center; color: #ed1d24; }
+        #estante { display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; }
+        .hq-card { background: #222; border-radius: 12px; padding: 15px; width: 260px; border: 1px solid #333; transition: 0.3s; }
+        .hq-card:hover { border-color: #ed1d24; transform: translateY(-5px); }
+        .capa { width: 100%; height: 380px; object-fit: cover; border-radius: 8px; }
+        .botao-ler { display: block; background: #ed1d24; color: white; text-align: center; padding: 10px; border-radius: 5px; text-decoration: none; margin-top: 15px; font-weight: bold; }
+        .info { margin-top: 10px; font-size: 0.9em; }
+        strong { color: #ed1d24; }
