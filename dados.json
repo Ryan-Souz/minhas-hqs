@@ -1,0 +1,16 @@
+[
+  {
+    "titulo": "Batman: Ano Um",
+    "capa": "https://m.media-amazon.com/images/I/81S6-339mJL.jpg",
+    "resumo": "O começo de tudo em Gotham. Muito bom!",
+    "personagens": "Bruce Wayne, Jim Gordon",
+    "link": "https://drive.google.com/sua-hq-1"
+  },
+  {
+    "titulo": "Homem-Aranha: Azul",
+    "capa": "https://m.media-amazon.com/images/I/91M9pU8L7FL.jpg",
+    "resumo": "Uma história nostálgica e triste sobre o Peter.",
+    "personagens": "Peter Parker, Gwen Stacy",
+    "link": "https://drive.google.com/sua-hq-2"
+  }
+]
